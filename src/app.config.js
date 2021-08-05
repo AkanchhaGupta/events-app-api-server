@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.1';
-    team = 'Newgit add . 2 Akanchha';
+    team = 'New Team 2 Akanchha';
 }
 module.exports = AppConfig;
